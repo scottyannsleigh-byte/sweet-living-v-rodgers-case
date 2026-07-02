@@ -250,10 +250,15 @@ gated by a CAPTCHA that automated tools cannot pass, so it has to be done by a h
 | **~15 days → ~July 11, 2026** | DIN 52 | from June 26 | Explain jurisdiction + **attach the order you're appealing** (the June 18 Final Judgment) |
 | **~40 days → ~August 5, 2026** | DIN 53 | from June 26 | **Pay $300** *or* file for **indigency** under § 57.081 |
 
-> **Likely root problem:** a county‑court eviction final judgment is normally appealed to the
-> **Circuit Court** appellate division, not the DCA. Your Notice of Appeal (DIN 47) even says
-> "Circuit Court." The DCA can't see why the case is with *them* and you didn't attach the
-> judgment — hence the show‑cause. This is a **paperwork/routing fix**, not a merits loss.
+> **Root problem — CORRECTED after verification (July 2, 2026):** an earlier version of this
+> paragraph (and the older notes in this repo) said county‑court appeals belong in the
+> **Circuit Court**. That was **pre‑2021 law**. Chapter 2020‑61, Laws of Florida, amended
+> **§ 26.012, Fla. Stat.** effective **January 1, 2021**: county‑court final judgments are now
+> appealed **directly to the DCA**. **The Second DCA is the CORRECT court.** The defect is that
+> your Notice of Appeal (DIN 47) *said* "Circuit Court" and the DCA never received a copy of the
+> judgment — both fixable: attach the judgment to your show‑cause response and file an Amended
+> Notice of Appeal (see `filings/02` and `filings/03`). This is a **paperwork fix**, not a merits
+> loss.
 
 ---
 
@@ -297,9 +302,11 @@ file; and sworn **eyewitness** to the $17,000 payment not addressed in the judgm
 
 ## 10. DEADLINES & PRIORITIES
 
-1. **🔴 By ~July 11 (DIN 52):** file a short (2–4 page) response to the show‑cause order — explain
-   the Circuit‑Court‑vs‑DCA routing, **attach the June 18 Final Judgment**, and ask the court to
-   either take jurisdiction **or transfer to Circuit Court**.
+1. **🔴 By ~July 11 (rolls to Mon. July 13; target Fri. July 10) (DIN 52):** file the response to
+   the show‑cause order — **attach the June 18 Final Judgment**, explain that the DCA **has**
+   jurisdiction under § 26.012 (as amended eff. 1/1/2021), and note the "Circuit Court" wording in
+   the notice was a pro se drafting error being cured by an Amended Notice of Appeal
+   (ready‑to‑file drafts: `filings/02` and `filings/03`).
 2. **🔴 By ~Aug 5 (DIN 53):** pay **$300** *or* file for **indigency under § 57.081** (as a single
    mother of a special‑needs adult son, you likely qualify). Get the lower court to sign the
    certificate, then send it to the Second DCA.

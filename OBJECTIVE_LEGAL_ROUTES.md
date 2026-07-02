@@ -43,10 +43,11 @@ the rule contains **three lock‑ins**:
    reassignment. Silence = granted.
 
 If he *denies* a legally sufficient motion, the remedy is a **petition for writ of
-prohibition** — review by a *different* court. (Under Fla. R. App. P. 9.030(c)(3),
-circuit courts have prohibition jurisdiction over county courts; because your merits
-appeal is currently sitting at the Second DCA, ask Self‑Help which court takes the
-prohibition petition in this posture.)
+prohibition** — review by a *different* court. (Since the January 1, 2021 jurisdiction
+change (ch. 2020‑61, amending § 26.012, Fla. Stat.), appeals from county court final
+judgments lie in the **district courts of appeal**, so the prohibition petition
+concerning this county judge belongs in the **Second DCA** — the same court already
+handling your appeal. Confirm the filing mechanics with Self‑Help.)
 
 ### 1a. What the motion must contain — Rule 2.330(c), checked item by item
 
@@ -394,7 +395,7 @@ show‑cause response, (c) the indigency application.
 | **§ 92.525(1)–(2)** | Verification by declaration: exact "Under penalties of perjury…" wording, placed above signature |
 | **§ 38.10, Fla. Stat.** | Statutory disqualification for fear of unfair trial |
 | **Fla. R. Civ. P. 1.540(b)(4)** | Void judgment; no time limit |
-| **Fla. R. App. P. 9.030(c)(3)** | Circuit court prohibition jurisdiction over county courts |
+| **§ 26.012(1), Fla. Stat. (as amended by ch. 2020‑61, eff. 1/1/2021)** | County court civil appeals now lie in the DCA, not circuit court — the Second DCA is the correct court for this appeal and for the prohibition petition |
 | **§ 319.33, Fla. Stat.** | Title fraud felony |
 
 **Primary sources checked (July 2, 2026):** Rule 2.330 current text (Syfert/RuleDex
