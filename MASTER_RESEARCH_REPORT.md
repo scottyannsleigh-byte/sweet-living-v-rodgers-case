@@ -291,6 +291,13 @@ account:
    and a **Jan 2, 2026** date (sale was Dec 6, 2025). You cite **Fla. Stat. § 319.33(1)(e)**.
 10. **Cover‑sheet error:** the Civil Cover Sheet marks **"yes"** to *"allegations of sexual
     abuse"* in an eviction — a filing error, but it's on the official record.
+11. **Notice address ≠ the corporation's registered address:** Sweet Living, Inc.'s official
+    Division of Corporations **principal address is 11888 US Hwy 41 S, Gibsonton, FL 33534**;
+    the notices use "312 E. Bloomingdale Ave., Brandon" (mistyped "33811"). (See
+    `SWEET_LIVING_BYLAWS_AND_CORPORATE_RECORDS.md` §3.)
+12. **Denial signed by a non‑officer:** the corporation's **only director of record is Desmond
+    Surujbali**, yet the 12/31/2025 Notice of Denial of Tenancy was signed by **"Manuel Diaz."**
+    His authority to bind the corporation is unestablished — a discovery target.
 
 **Your strongest procedural issues (from your own motions):** unruled jurisdictional challenge
 (motion to quash, Rule 1.140(b)(5)); no evidentiary hearing on *existence of tenancy* (you cited

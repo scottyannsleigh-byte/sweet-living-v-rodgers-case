@@ -49,27 +49,64 @@ their eviction cases stand or fall on:
   procedures**. Those documents are discoverable and relevant to how "screening" is
   actually practiced there.
 
-## 3. WHAT I FOUND — THE CORPORATE WEB
+## 3. THE CORPORATE RECORD — RETRIEVED AND VERIFIED (July 2, 2026)
 
-- **Sweet Living, Inc.** — FL profit corp, **Doc. No. P06000079283**, filed
-  **06/08/2006**, ACTIVE, EIN 20‑5038836. Registered agent & officer/director:
-  **Desmond Surujbali, 912 Shoals Landing Dr., Brandon, FL 33511** (residential
-  address in Brandon; note the notices use 312 E. Bloomingdale Ave.).
-- **Desmond Surujbali LLC** — a separate Florida LLC associated with him in **Valrico,
-  FL** (per CorporationWiki, which shows him tied to **three** Florida entities formed
-  over ~11 years, all active).
-- A further entity beginning **"SWEETLIVING…," Doc. No. L23000449630** (a 2023 LLC)
-  appears adjacent to Sweet Living, Inc. in the state's own name index.
-- Marketing materials claim **"over 1,500 sites"** across mobile home parks,
-  apartments, warehouses, and offices statewide.
-- **Why the entity map matters:** the evictions are filed under **two names** (Sweet
-  Living, Inc. *and* Desmond Surujbali personally — see master report §7). If the
-  **land** under Zephyr MHP is titled to a different entity than the one that sued
-  you, that goes directly to the **standing** argument you already raised in your
-  Motion to Dismiss (DIN 25).
+Sunbiz itself blocks automated access, but I pulled the **official Florida Division of
+Corporations record** through a database that sources directly from it. Here is the
+complete filing for the plaintiff:
 
-*(Sunbiz and its mirrors block automated access, so officer history and document
-images must be pulled by hand — 2 minutes, instructions below.)*
+### SWEET LIVING, INC. — the entity that sued you
+| Field | Official record | 
+|---|---|
+| **Document (filed) number** | **P06000079283** |
+| **FEI / EIN** | **20‑5038836** |
+| **Date of incorporation** | **June 8, 2006** (21 years) |
+| **Type / home state** | Domestic for‑Profit corporation, Florida |
+| **Status** | **ACTIVE** |
+| **Principal address** | **11888 US Highway 41 South, Gibsonton, FL 33534** |
+| **Mailing address** | **912 Shoals Landing Dr., Brandon, FL 33511** |
+| **Registered agent** | **Desmond Surujbali**, Brandon, FL 33511 |
+| **Officers/Directors** | **ONE Director: Desmond Surujbali** (no one else of record) |
+| **Recent annual reports** | 2025 (filed Mar 24, 2025); 2024 (filed Apr 3, 2024); filed every year — pull all from Sunbiz images |
+| **Source** | Florida Dept. of State, Division of Corporations |
+
+### 🔴 TWO NEW, CONCRETE DISCREPANCIES THIS RECORD CREATES
+
+1. **The address on your legal notices is not the corporation's registered address.**
+   Sweet Living, Inc.'s official **principal address is in GIBSONTON (11888 US Hwy 41
+   S)**. But the eviction complaint and the 5‑Day/7‑Day notices use **"312 E.
+   Bloomingdale Ave., Brandon"** (mistyped "33811" on one notice). The corporation
+   served you legal process from an address that is neither its registered principal
+   address (Gibsonton) nor its registered mailing address (912 Shoals Landing Dr.).
+   This reinforces the **service/notice‑reliability** and **identity** questions.
+
+2. **"Manuel Diaz" is not an officer of record.** The **Notice of Denial of Tenancy
+   (12/31/2025)** was signed **"Manuel Diaz, Sweet Living Inc."** But the corporation's
+   **only officer/director of record is Desmond Surujbali.** Who authorized Diaz to
+   deny your tenancy on the corporation's behalf, and under what authority? A denial of
+   tenancy that drives the whole § 723.059 chain should come from someone with
+   authority to bind the corporation. **Ask for it in discovery** (see §4D).
+
+### The Surujbali entity web (confirmed his)
+- **DESMOND SURUJBALI LLC** — Doc. **L15000117843**, Florida LLC, incorporated
+  **July 8, 2015**, **Active**; principal **5206 Gabby Court, Plant City, FL 33565**;
+  mailing 912 Shoals Landing Dr., Brandon; Manager **Desmond Surujbali**. (Note: Plant
+  City is also where plaintiff's attorney Wynne is based — likely coincidental, worth
+  noting.)
+- The evictions are filed under **two names** — *Sweet Living, Inc.* **and** *Surujbali,
+  Desmond* personally (master report §7). Both trace to the same person and the same
+  Brandon mailing address.
+
+### Same‑name entities that are probably NOT his — verify before using
+The state index also shows **"SWEET LIVING SPONSORS, LLC"** (Harrisburg, PA manager) and
+**"SWEET LIVING USA LLC"** (Margate, FL; registered agent **Warren Taylor** — inactive)
+and **"SWEET LIVING FARMS, LLC."** These have **different managers and cities** and
+appear **unrelated** to Desmond Surujbali. Do **not** assume they are his — confirm on
+Sunbiz before mentioning any of them anywhere.
+
+- **Why the entity map matters:** if the **land** under Zephyr MHP is titled to a
+  different entity than the one that sued you, that goes directly to the **standing**
+  argument you already raised in your Motion to Dismiss (DIN 25). Pull the deed (§4C).
 
 ---
 
