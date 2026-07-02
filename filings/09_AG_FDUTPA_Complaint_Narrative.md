@@ -41,6 +41,15 @@ documented in my court filing of March 2026, docket entry 13; two more filed aft
 mine). Its owner also files evictions under his personal name, Desmond Surujbali, in
 Pasco, Hillsborough, and Polk counties. [ATTACH the verified case list when complete.]
 
+4a. The scale is documented in the State's own records: DBPR's published mobile home
+park registry lists **ten parks (710 lots)** registered to "SURUJBALI, DESMOND"
+personally across Hillsborough, Polk, and Manatee counties (Alafia Mobile Plaza,
+Chapman's, Duffey's, Melody Acres 1 & 2, Pine Lake, Pine Oaks, Rainbow, Speer,
+Strawberry Fields) — one of them fee-delinquent. The park where I bought my home
+(Zephyr MHP, Pasco, project PRMZ001210) is listed with owner of record "CHANG, HYE
+SUK" — not the company that sued me as the park's owner — and its DBPR fee status is
+"Delinquent."
+
 5. On June 18, 2026, the same company's eviction against my next-door neighbor (Case
 No. 2026-CC-003437) was **denied** when she contested it — supporting my belief that
 these cases do not survive scrutiny when actually defended.

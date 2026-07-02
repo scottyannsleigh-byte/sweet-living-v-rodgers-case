@@ -46,11 +46,32 @@ denied in writing that I could be a tenant — using a Chapter 83 residential ev
 summons. It had also issued a 5-day rent demand for the same $1,166 to the seller,
 Sally Potes, for the same lot. Attached.
 
-6. I ask the Division to: (a) investigate the park's compliance with §§ 723.059,
-723.061, and 723.062 in connection with this lot; (b) confirm whether the park's
-prospectus and rules are properly filed and were provided as required; (c) advise
-whether civil penalties under § 723.006 are warranted; and (d) advise me regarding
-mediation under § 723.038.
+6. The Division's own published records raise further questions I ask you to examine:
+
+&nbsp;&nbsp;&nbsp;a. The Division's mobile home park extract lists Zephyr Mobile Home Park
+as project **PRMZ001210**, 82 lots, with owner of record **"CHANG, HYE SUK"** (c/o Suk
+Chang, Tampa) — not Sweet Living, Inc., which sued me as the park's owner. Has any
+transfer of ownership been reported to the Division? Who is the park owner of record
+today, and under what authority does Sweet Living, Inc. operate the park?
+
+&nbsp;&nbsp;&nbsp;b. The same record shows the park's fee status as **"Delinquent."**
+
+&nbsp;&nbsp;&nbsp;c. The park's prospectus was approved **December 20, 1985**. The
+January 5, 2026 notice against me quotes "Paragraph 2 of the Zephyr Mobile Home Park
+Rules and Regulations." Please confirm whether the rules quoted are part of the
+approved prospectus or any approved amendment — i.e., whether they are properly
+promulgated within the meaning of § 723.061(1)(c).
+
+&nbsp;&nbsp;&nbsp;d. Section 723.011 requires delivery of an approved prospectus
+"[p]rior to entering into an enforceable rental agreement." No prospectus was ever
+delivered to me; Sweet Living, Inc. nonetheless sued me on an alleged **oral** lot
+rental agreement.
+
+7. I ask the Division to: (a) investigate the park's compliance with §§ 723.011,
+723.059, 723.061, and 723.062 in connection with this lot; (b) provide copies of the
+approved prospectus and all approved rule amendments for PRMZ001210 (public records
+request); (c) advise whether civil penalties under § 723.006 are warranted; and (d)
+advise me regarding mediation under § 723.038.
 
 ## Attachments
 - Denial of Tenancy letter (12/31/2025)
