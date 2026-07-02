@@ -37,6 +37,12 @@ error, not a jurisdiction problem. Documents 02 and 03 fix it.
 | 9 | `09_AG_FDUTPA_Complaint_Narrative.md` | Attorney General online | after case list built |
 | 10 | `10_Motion_to_Vacate_Void_Judgment_1540b4.md` | Pasco County Court | no deadline — read its caution note first |
 | 11 | `11_Motion_for_Successor_Judge_Reconsideration_2330j.md` | Pasco County Court | **ONLY if/when disqualification is granted — then within 30 days** |
+| 12 | `12_Civil_Theft_Demand_Letter_Potes.md` | Certified mail to Sally Potes | no deadline — send this week; starts the § 772.11 thirty-day treble-damages clock |
+| 13 | `13_Home_Ownership_Notice_and_Demand.md` | Email + certified mail to Wynne's office | **send IMMEDIATELY** — protects the $18,000 home and preserves evidence |
+
+> Recovery strategy for 12–13 (and the full counterclaim menu): see
+> `COUNTERSUIT_AND_RECOVERY_PLAN.md` in the repo root. Safety rule for both letters:
+> **never mention police, prosecutors, or criminal charges in any demand for money.**
 
 ---
 
