@@ -50,9 +50,16 @@ live in `research/COUNTERSUIT_AND_RECOVERY_PLAN.md` Part 0 and `research/APPEAL_
   (the only hearing where DIN 44 documents Desmond in the courtroom). If approximate,
   write "on or about June 18, 2026" — never guess a date you're unsure of in a sworn
   motion (details: filing 01's instruction block).
-- **Order the hearing audio** (3/24, 6/2, 6/18) from the clerk / Court Administration —
-  county hearings are recorded; the audio proves the bench comment AND feeds the
-  appeal record. Ask when you call Self-Help.
+- 🚨 **TRANSCRIPT DESIGNATION — MOST URGENT ITEM ON THIS PAGE.** Rule 9.200(b) gave
+  you **10 days from the June 24 notice of appeal** (≈ July 6) to designate hearing
+  transcripts for the appellate record. Monday at the clerk: (a) order the recordings/
+  transcripts of the **3/24, 6/2, and 6/18** hearings; (b) file a **Designation to
+  Court Reporter / Directions to Clerk** in the county case naming those three
+  hearings — if the window has lapsed, file it anyway with a short motion for leave
+  (routinely granted; Self-Help has the form). Without transcripts, *Applegate v.
+  Barnett Bank* (Fla. 1979) makes the DCA presume the judgment correct — this one
+  step protects every argument in the appeal. Full plan:
+  `research/APPEAL_BRIEF_ROADMAP.md`.
 
 ### 🔴 STEP 2 — File by Wednesday, July 8
 - **File `filings/01` — Verified Motion to Disqualify** (e-portal myflcourtaccess.com
@@ -104,7 +111,7 @@ live in `research/COUNTERSUIT_AND_RECOVERY_PLAN.md` Part 0 and `research/APPEAL_
 |---|---|---|
 | Disqualification granted (or 30 days pass silently) | Within **30 days**: motion for successor judge to reconsider all rulings | `11` |
 | Disqualification denied | Petition for writ of prohibition (Second DCA) — ask Self-Help to format | — |
-| DCA discharges show-cause / dockets the merits | Write the brief. **Brief Issues 1 and 2 as ONE interlocked argument** (no tenancy → no lawful deposit default → jury demand survived; `research/APPEAL_ISSUE_JURY_TRIAL.md` §4), then **(3) the *Frey/Grimm* hearing denial (DIN 26 was DENIED as "legally deficient," DIN 41 ¶ B — argue the denial was error, not that it was ignored)** and **(4) wrong statutory vehicle**, with *Dotson* as merits context only | — |
+| DCA discharges show-cause / dockets the merits | Write the brief on the verified clock: record index ≈ **Aug 13**, initial brief due ≈ **Sept 2** (70 days from notice; Rule 9.110(f)). Architecture, format rules, and the *Applegate* transcript strategy: `research/APPEAL_BRIEF_ROADMAP.md` — lead with *Frey/Grimm*, weld the jury issue to the no-tenancy chain, exclude everything prejudicial | roadmap |
 | Potes's 30 days run out unpaid | Take the recovery suit to counsel (don't file the civil-theft count pro se) | plan Part 5 |
 | They touch/rent/sell the home after notice 13 | That's conversion with treble exposure — straight to counsel | plan Track B |
 | Writ of possession executes | They may move the home **to storage only** (§ 723.062) — demand the location in writing; your § 723.058 right to **sell the home** survives | `13` |
