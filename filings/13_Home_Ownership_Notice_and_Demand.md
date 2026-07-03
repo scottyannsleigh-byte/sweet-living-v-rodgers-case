@@ -85,4 +85,4 @@ Brandi Rodgers
 <!-- Keep the sent email (with timestamp), certified receipt, and any reply. If they
 use, rent, sell, or re-title the Home after receiving this, that conduct becomes the
 centerpiece of the conversion / treble-damages claim described in
-COUNTERSUIT_AND_RECOVERY_PLAN.md Track B. -->
+research/COUNTERSUIT_AND_RECOVERY_PLAN.md Track B. -->
