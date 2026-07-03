@@ -4,9 +4,13 @@ INSTRUCTIONS — DELETE THIS ENTIRE BLOCK BEFORE FILING
   Clerk, 525 Mirror Lake Dr. N., St. Petersburg, FL 33701).
 - DEADLINE: 15 days from June 26, 2026 order ≈ July 11 (Saturday) → next business day
   Monday, July 13, 2026. TARGET FRIDAY, JULY 10.
-- YOU MUST ATTACH a copy of the June 18, 2026 Final Judgment for Possession (DIN 44) as
-  Appendix A. Get a clean copy from the Pasco Clerk if needed. Do not skip this — the
-  missing judgment is the exact reason for the show-cause order.
+- YOU MUST ATTACH: (A) the June 18, 2026 Final Judgment for Possession (DIN 44) as
+  Appendix A — the missing judgment is the exact reason for the show-cause order; and
+  (B) the DCA's own Acknowledgment of New Case (DIN 51) as Appendix B — it shows the
+  DCA itself classified this as a county-civil eviction appeal (the clerk's transmittal
+  form used a criminal category by mistake). Verify the DIN 50 checkbox on your copy
+  before filing; if it is not the criminal category, delete paragraph 2a's second
+  sentence and keep the rest.
 - File document 03 (Amended Notice of Appeal) in the COUNTY court at the same time, and
   say so in ¶8 below (adjust if you file it a different day).
 ============================================================ -->
@@ -43,6 +47,15 @@ Judgment — within the 30 days required by Florida Rule of Appellate Procedure 
 The lower tribunal clerk transmitted the notice to this Court, which acknowledged the
 new case on June 26, 2026 as "NOA Final – County Civil – Landlord/Tenant/Eviction
 (Residential)."
+
+2a. **Any classification confusion originated in the transmittal, not the appeal.**
+The lower tribunal clerk's Notice of Appeal Transmittal Form (DIN 50) appears to have
+categorized this civil appeal under a criminal appeal classification and noted that a
+copy of the order appealed did not accompany the notice. This Court's own
+Acknowledgment of New Case (DIN 51), however, correctly identified the matter as "NOA
+Final – County Civil – Landlord/Tenant/Eviction (Residential)." A copy of the
+Acknowledgment is attached as **Appendix B**, and the order appealed is supplied as
+Appendix A, curing the transmittal omission.
 
 3. **This Court has jurisdiction.** This is an appeal from a final judgment of a county
 court. Effective January 1, 2021, chapter 2020-61, Laws of Florida, amended section
@@ -101,7 +114,7 @@ Dated: July [___], 2026
 ### CERTIFICATE OF SERVICE
 
 I HEREBY CERTIFY that on July [___], 2026, a true and correct copy of the foregoing,
-with Appendix A, was furnished by email to Keith William Wynne, Esq., The Law Office of
+with Appendices A and B, was furnished by email to Keith William Wynne, Esq., The Law Office of
 Keith Will Wynne, Esq., 1001 E. Baker Street, Suite 101, Plant City, Florida 33563
 (Keith@KeithWillWynne.com; Pleadings@KeithWillWynne.com), counsel for Appellee.
 
@@ -111,3 +124,5 @@ BRANDI RODGERS, Appellant, pro se
 ---
 **Appendix A:** Final Judgment for Possession, Case No. 2026-CC-001256 (June 18, 2026)
 [ATTACH A CLEAN COPY — DIN 44]
+**Appendix B:** Acknowledgment of New Case, Second DCA (June 26, 2026)
+[ATTACH A CLEAN COPY — DIN 51]

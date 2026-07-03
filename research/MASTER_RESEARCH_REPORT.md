@@ -191,6 +191,13 @@ powerful, concrete comparison to put in front of the appellate court.
 > Defendant submitted documentation of seventeen of these cases to the Court in March 2026 (DIN
 > 13). Two additional cases were filed after Defendant's case."*
 
+> ⚠️ **CRITICAL REFRAME (second‑pass finding):** the Sixth Circuit assigns East Pasco
+> county‑civil cases — including evictions — to specific divisions by **administrative
+> order** (jud6.org publishes the annual "East Pasco Judicial Assignments" AOs). Every
+> East Pasco eviction Sweet Living files therefore lands before the same judge **by
+> design**. The 19 cases are a **repeat‑filer business‑pattern fact** (for DBPR/AG) —
+> they are NOT evidence of judicial bias, and must never be argued that way.
+
 The **17‑case exhibit (DIN 13)** you filed is **not** among the machine‑readable PDFs in this
 repo (if it exists here it's an un‑OCR‑able screenshot). That exhibit is the fastest way to the
 full list — **pull your own DIN 13 from the clerk.**

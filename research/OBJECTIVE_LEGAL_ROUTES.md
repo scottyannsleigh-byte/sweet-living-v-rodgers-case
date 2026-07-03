@@ -77,22 +77,29 @@ The fear is judged objectively — would a reasonable person in your shoes fear 
 ### 1b. The facts that go in (all already in the record — cite the DIN numbers)
 
 - The court's statement from the bench, **"Desmond needs his money,"** referring to the
-  plaintiff's owner by first name (sworn in your Emergency Motion, **DIN 48 ¶ l**);
-- Plaintiff has filed **19 eviction cases in Pasco County Court, all before the same
-  judge, all with the same attorney** (your **DIN 13** exhibit of 17 cases + DIN 48 ¶ l);
+  plaintiff's owner by first name (sworn in your Emergency Motion, **DIN 48 ¶ l**) —
+  **this is the ground**; everything else is context;
 - On **June 18, 2026** the court entered a **judicial default** against you while your
   **answers** (3/10, 3/16, 5/20), **jury‑trial demand** (DIN 29), and **unruled motions**
-  — to quash service (DIN 27), to dismiss (DIN 25), to determine rent with an
-  evidentiary hearing (DIN 26) — were on file, and declared your motions **"abandoned"**
-  after you accepted a court‑offered recess (**DIN 44 ¶ 3, ¶ C**; DIN 48 ¶¶ a, c, g);
-- **The same judge, the same day, in the same courtroom, DENIED the same plaintiff's
-  eviction** against your next‑door neighbor in the contested case (*Sweet Living v.
-  Dotson*, 2026‑CC‑003437, order signed 6/22/2026) while granting an uncontested default
-  against you.
+  — to quash service (DIN 27), to dismiss (DIN 25) — were on file, and declared your
+  motions **"abandoned"** after you accepted a court‑offered recess (**DIN 44 ¶ 3,
+  ¶ C**; DIN 48 ¶¶ a, c, g). *(Precision note: DIN 26, the motion to determine rent,
+  was **denied as "legally deficient"** in the June 3 judgment (DIN 41 ¶ B) — it was
+  ruled on, unlike the others; never describe it as unruled.)*
+- Context only, never a standalone ground: **the same day**, the court **DENIED** the
+  same plaintiff's eviction against your next‑door neighbor in the contested companion
+  case (*Sweet Living v. Dotson*, 2026‑CC‑003437, order signed 6/22/2026 — pleaded on a
+  **different ground**, rule violation rather than non‑payment).
 
 **Do NOT include:** friendship, payment, corruption, motive, or the words "corrupt,"
-"bribed," or "conspiracy." The test is *your reasonable fear from stated facts*. The
-bench comment plus the pattern **is** the argument.
+"bribed," or "conspiracy." **And do NOT include the "19 cases before the same judge"
+point as a bias argument:** the Sixth Circuit assigns East Pasco county‑civil cases
+(including evictions) to specific divisions by **administrative order** (jud6.org
+publishes the "East Pasco Judicial Assignments" AOs) — every East Pasco eviction Sweet
+Living files lands in the same division **by design**. Filing that as a bias claim
+invites the court to cite the assignment order and discredit the whole motion. The 19
+cases remain a valid **repeat‑filer business‑pattern** fact for the DBPR/AG complaints
+only.
 
 ### 1c. Timing — urgent
 

@@ -43,10 +43,23 @@ raised at a hearing, and re-raised post-judgment. Nobody can say she slept on it
    leave to demand out of time — a request the court had discretion to grant and
    **never ruled on**.
 6. **Denial of a constitutionally guaranteed, properly demanded jury trial is treated
-   as structural — reversible per se, not subject to harmless-error rescue.** (General
-   authority verified; for an eviction-specific citation, have the law library confirm
-   *K.D. Lewis Enterprises Corp. v. Smith*, 445 So. 2d 1032 (Fla. 5th DCA 1984)
-   **[VERIFY before citing]** — tenant's jury right in an eviction action.)
+   as structural — reversible per se, not subject to harmless-error rescue.**
+7. **The "authorized by law" hook for § 51.011(3):** § 83.60(1), Fla. Stat., expressly
+   contemplates jury trial in eviction actions — *"the court or the jury, as the case
+   may be, shall determine the amount, if any, by which the rent is to be reduced"* —
+   and § 723.061(3) routes Ch. 723 evictions through the same summary procedure.
+8. **The constitutional line (second-pass research — VERIFY each at the law library
+   before citing):** Art. I, § 22 preserves the jury right as it existed in **1845**;
+   eviction is the modern analogue of **ejectment**, an action at law tried to juries
+   at common law. Supporting authorities identified: *Pernell v. Southall Realty*, 416
+   U.S. 363 (1974) (U.S. Supreme Court: jury right in eviction/possession actions);
+   *Baldwin Sod Farms, Inc. v. Corrigan*, 746 So. 2d 1198 (Fla. 4th DCA 1999) (read at
+   1202); *In re Estate of Howard*, 542 So. 2d 395 (Fla. 1st DCA 1989) (1845 test);
+   *Mastriana v. Brown Bros. Harriman*, 410 So. 3d 1223 (Fla. 4th DCA 2025) (most
+   recent statement of the test). No 2d DCA case directly on point was found — be
+   candid in the brief that this may be a question of first impression there.
+   (Earlier drafts referenced *K.D. Lewis Enterprises Corp. v. Smith* — do NOT cite
+   it; second-pass verification found it does not hold what was claimed.)
 
 ---
 
@@ -70,9 +83,26 @@ raised at a hearing, and re-raised post-judgment. Nobody can say she slept on it
 
 ## 4. THEIR BEST COUNTERARGUMENT — and why it fails here
 
-**They will say:** the judicial default extinguished the jury right — a defaulted party
-admits liability, and juries survive default only for unliquidated damages (of which an
-eviction has none).
+⚠️ **BRIEFING INSTRUCTION: the jury issue and the no-tenancy issue are ONE argument —
+brief them together.** The chain: no prospectus was delivered and tenancy was denied in
+writing (§ 723.011; the 12/31/2025 letter) → the registry-deposit duty in
+§ 83.60(2)/§ 723.063(2) binds a *tenant/mobile home owner* raising defenses, which she
+was not → the "deposit default" was therefore not a lawful statutory default → the jury
+demand survived and Rule 1.430(d) barred its "abandonment" → the bench judgment denied
+the constitutional right. If the no-tenancy premise is briefed separately and fails,
+the other side will recast the default as a lawful § 83.60(2) procedural default that
+extinguished the jury right. Interlock them.
+
+**Precision correction (from the verified June 3 judgment, DIN 41 ¶ B):** the motion
+for the tenancy hearing (DIN 26) was **"legally deficient and therefore DENIED"** — it
+was ruled on, not ignored. The argument is that the DENIAL was error because *Frey*
+and *Grimm* required the evidentiary hearing before any deposit obligation or default
+could attach — not that the court failed to rule. (The jury motions, DIN 24/29,
+remained unruled; DIN 44 ¶ C then declared everything "abandoned.")
+
+**They will also say:** the judicial default extinguished the jury right — a defaulted
+party admits liability, and juries survive default only for unliquidated damages (of
+which an eviction has none).
 
 **The rebuttal (brief these together, not separately):**
 - The "default" is itself the **lead error on appeal**: it was entered against a party

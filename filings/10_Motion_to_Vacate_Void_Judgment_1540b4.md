@@ -38,21 +38,25 @@ states:
 June 3, 2026). Neither motion was ever ruled on. A challenge to personal jurisdiction
 must be adjudicated before judgment; it cannot be deemed "abandoned."
 
-3. The record shows service was never properly completed on Defendant:
+3. The record shows service was never validly completed on Defendant:
 
-&nbsp;&nbsp;&nbsp;a. The Return of Service was not filed until **May 19, 2026** (DIN 23)
+&nbsp;&nbsp;&nbsp;a. The purported **substitute service of May 14, 2026** at Defendant's
+residence (13721 94th Ave., Seminole) failed to comply with section 48.031(1)(a),
+Florida Statutes, in at least three independent respects, as set out in Defendant's
+Motion to Quash (DIN 27): **(i)** the return of service does not establish that the
+substitute recipient resided at Defendant's address; **(ii)** the papers were never
+placed in the recipient's hands — the process server's own return states the papers
+were left while a **closed storm door** separated the server from the recipient; and
+**(iii)** the statutory "informing the person of their contents" requirement cannot be
+satisfied through a closed door.
+
+&nbsp;&nbsp;&nbsp;b. The process server's own status log (within DIN 23) records the
+prior visit of May 11, 2026 as an unsuccessful **attempt** ("No answer to five minutes
+knocking… Taped business card to front door").
+
+&nbsp;&nbsp;&nbsp;c. The Return of Service was not filed until **May 19, 2026** (DIN 23)
 — three months after suit was filed on February 18, 2026 — and after multiple hearings
-had already been noticed and held.
-
-&nbsp;&nbsp;&nbsp;b. Case papers were directed to **3929 Argyle St., Zephyrhills** — a
-property Defendant never occupied, was locked out of by Plaintiff's own on-site
-manager, and which has no mailbox — while Plaintiff's own 5-Day Notice (DIN 4) shows
-Plaintiff knew Defendant's actual residence was **13721 94th Ave., Seminole, FL 33776**.
-
-&nbsp;&nbsp;&nbsp;c. The process server's status record contained within DIN 23 shows an
-**attempt** at the Seminole address on May 11, 2026 ("No answer to five minutes
-knocking… Taped business card to front door") — an attempt, not completed personal or
-substitute service under section 48.031, Florida Statutes.
+had already been noticed and held on a record containing no proof of service.
 
 4. Because service was never validly effected, the judicial default (DIN 43), the Final
 Judgment of June 3, 2026 (DIN 41), and the Final Judgment for Possession of June 18,

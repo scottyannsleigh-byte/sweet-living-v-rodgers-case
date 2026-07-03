@@ -31,7 +31,9 @@ live in `research/COUNTERSUIT_AND_RECOVERY_PLAN.md` Part 0 and `research/APPEAL_
    money judgment collects (§ 55.10 liens in **Pasco**, Hillsborough, Polk, Manatee —
    including on the park itself).
 5. **The same judge, same day, same park:** *Dotson* (next door) contested and **won**;
-   Brandi was defaulted. The comparison order is in this repo.
+   Brandi was defaulted. (Note: Dotson was pleaded on a different ground — rule
+   violation vs. non‑payment — so use it as merits context, never as a bias argument;
+   evictions reach this judge by administrative assignment order, not by choice.)
 
 ---
 
@@ -102,7 +104,7 @@ live in `research/COUNTERSUIT_AND_RECOVERY_PLAN.md` Part 0 and `research/APPEAL_
 |---|---|---|
 | Disqualification granted (or 30 days pass silently) | Within **30 days**: motion for successor judge to reconsider all rulings | `11` |
 | Disqualification denied | Petition for writ of prohibition (Second DCA) — ask Self-Help to format | — |
-| DCA discharges show-cause / dockets the merits | Write the brief. Issues, in order: **(1) jury trial** (`research/APPEAL_ISSUE_JURY_TRIAL.md`), **(2) default without the *Frey/Grimm* hearing + judgment's ¶1/¶4 contradiction**, **(3) wrong statutory vehicle (Ch. 83 machinery on a Ch. 723/§ 723.011 record)**, with the *Dotson* order as the comparison exhibit | — |
+| DCA discharges show-cause / dockets the merits | Write the brief. **Brief Issues 1 and 2 as ONE interlocked argument** (no tenancy → no lawful deposit default → jury demand survived; `research/APPEAL_ISSUE_JURY_TRIAL.md` §4), then **(3) the *Frey/Grimm* hearing denial (DIN 26 was DENIED as "legally deficient," DIN 41 ¶ B — argue the denial was error, not that it was ignored)** and **(4) wrong statutory vehicle**, with *Dotson* as merits context only | — |
 | Potes's 30 days run out unpaid | Take the recovery suit to counsel (don't file the civil-theft count pro se) | plan Part 5 |
 | They touch/rent/sell the home after notice 13 | That's conversion with treble exposure — straight to counsel | plan Track B |
 | Writ of possession executes | They may move the home **to storage only** (§ 723.062) — demand the location in writing; your § 723.058 right to **sell the home** survives | `13` |

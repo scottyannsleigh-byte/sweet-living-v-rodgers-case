@@ -30,9 +30,11 @@ my demand for jury trial, and my unruled motions — including a motion to quash
 challenging personal jurisdiction and a motion for an evidentiary hearing on whether a
 tenancy existed — were on file. The judgment stated my pending motions were "abandoned."
 
-3. The plaintiff has filed nineteen eviction cases in Pasco County Court, all assigned
-to Judge Compton and all filed by the same attorney. I filed documentation of seventeen
-of these cases in the court record in March 2026 (docket entry 13).
+3. The plaintiff is a frequent eviction filer in this court — nineteen cases, seventeen
+of which I documented in the court record in March 2026. I understand that East Pasco
+county-civil cases are assigned to divisions by administrative order, so I do not
+suggest the assignment of these cases reflects anything improper; I mention the volume
+only as context for the familiarity reflected in the statement described in paragraph 1.
 
 4. On the same day my case was defaulted (June 18, 2026), Judge Compton heard the same
 plaintiff's eviction against my next-door neighbor (Sweet Living, Inc. v. Dotson, Case
