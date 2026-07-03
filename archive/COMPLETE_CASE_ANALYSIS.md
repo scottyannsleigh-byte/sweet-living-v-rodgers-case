@@ -1,3 +1,13 @@
+> # ⚠️ CORRECTION (July 2, 2026) — READ BEFORE USING THIS FILE
+> The "MOST IMPORTANT THING" section below assumed county‑court appeals belong in the
+> **Circuit Court** and that the DCA routing was a mistake. **That is pre‑2021 law and is
+> WRONG.** Since January 1, 2021 (ch. 2020‑61, amending § 26.012, Fla. Stat.), county‑court
+> final judgments are appealed **directly to the DCA** — the **Second DCA is the CORRECT
+> court** for this appeal. The real defects were (1) the Notice of Appeal *saying* "Circuit
+> Court" and (2) the missing copy of the judgment. Both are fixed by the ready‑to‑file drafts
+> in `filings/02_Response_to_Show_Cause_Order_2DCA.md` and `filings/03_Amended_Notice_of_
+> Appeal.md`. Do **not** ask the clerk to move the appeal to Circuit Court.
+
 # COMPLETE CASE ANALYSIS — Sweet Living v. Rodgers
 **Case No. 2026-CC-1256 (Pasco County) · DCA Appeal No. 2D2026-1666**
 **Judge: Kent Compton · Defendant (pro se): Brandi Rodgers**
