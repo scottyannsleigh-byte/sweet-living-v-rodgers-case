@@ -1,3 +1,13 @@
+> # ⚠️ CORRECTIONS (July 2, 2026) — READ BEFORE USING THIS FILE
+> This early timeline contains two errors, corrected in later documents:
+> 1. **The case is in PASCO County, not Pinellas** (the "51" prefix = Pasco). Use Pasco
+>    resources: Clerk/Self‑Help **(727) 847‑2411**, Dade City courthouse — NOT the
+>    Pinellas numbers listed below.
+> 2. **Flag #3 below (appeal bond / wrong-court theory) is outdated law.** Since
+>    1/1/2021 county‑court appeals go **directly to the DCA** — the Second DCA is the
+>    **correct** court. See `MASTER_RESEARCH_REPORT.md` §8 and `filings/02`–`03`.
+> The docket table itself remains accurate. For the current plan, see `FINAL_PLAN.md`.
+
 # Sweet Living Inc. v. Rodgers — Case Timeline
 
 **Pinellas County Case:** 512026CC001256CCAXES
