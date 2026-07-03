@@ -326,7 +326,7 @@ file; and sworn **eyewitness** to the $17,000 payment not addressed in the judgm
 
 ## 11. CORRECTIONS TO THE EXISTING NOTES IN THIS REPO
 
-- **County error:** `SweetLiving_v_Rodgers_Case_Timeline.md` is headed *"Pinellas County"* and
+- **County error:** `archive/SweetLiving_v_Rodgers_Case_Timeline.md` is headed *"Pinellas County"* and
   lists **Pinellas** self‑help numbers (727‑453‑7878, Clearwater courthouse). **This case is in
   PASCO County** — the "**51**" prefix in 51‑2026‑CC‑001256 is Pasco (Pinellas is "52"). Both
   counties sit in the Sixth Judicial Circuit, but your hearings, clerk, and self‑help are **Pasco
@@ -338,8 +338,8 @@ file; and sworn **eyewitness** to the $17,000 payment not addressed in the judgm
 
 ## 12. SOURCES
 
-**Documents:** all PDFs in this repository (`lower_court_pdfs/`, `dotson_case_pdfs/`,
-`docket_images/`), OCR‑extracted for this report.
+**Documents:** all PDFs in this repository (`court_record/rodgers_filings/`, `court_record/dotson_case/`,
+`court_record/docket_images/`), OCR‑extracted for this report.
 
 **Public records / web:**
 - Florida Bar member profile — Keith Will Wynne, #898201: https://www.floridabar.org/directories/find-mbr/profile/?num=898201

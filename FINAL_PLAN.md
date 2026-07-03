@@ -2,7 +2,7 @@
 **Sweet Living, Inc. v. Rodgers · Pasco 2026-CC-001256 · Appeal 2D2026-1666**
 **Final verification pass completed July 2, 2026.** Every statute, rule, case, deadline,
 case number, and phone number below was checked against primary sources; the audit logs
-live in `COUNTERSUIT_AND_RECOVERY_PLAN.md` Part 0 and `APPEAL_ISSUE_JURY_TRIAL.md` §6.
+live in `research/COUNTERSUIT_AND_RECOVERY_PLAN.md` Part 0 and `research/APPEAL_ISSUE_JURY_TRIAL.md` §6.
 
 > **Not legal advice. The one phone number that starts everything: Pasco Self-Help /
 > Clerk (727) 847-2411.** If you or your mom hit the wall: **call/text 988, 24/7.**
@@ -76,7 +76,7 @@ live in `COUNTERSUIT_AND_RECOVERY_PLAN.md` Part 0 and `APPEAL_ISSUE_JURY_TRIAL.m
   filings are in; never mention them in court papers).
 - **Build the case list** (master report §7d): OCRS searches under BOTH names —
   "SWEET LIVING" and "SURUJBALI" — plus pull your own DIN 13. Feed it into `09` (AG).
-- **Shop the recovery suit** (`COUNTERSUIT_AND_RECOVERY_PLAN.md`): Bay Area Legal
+- **Shop the recovery suit** (`research/COUNTERSUIT_AND_RECOVERY_PLAN.md`): Bay Area Legal
   Services 1-800-625-2257, Community Law Program 727-582-7480, then contingency firms.
   Lead with: *"fee-shifting claims (FCCPA / FDUTPA / § 772.11) against a defendant who
   personally owns ten mobile home parks."*
@@ -86,7 +86,7 @@ live in `COUNTERSUIT_AND_RECOVERY_PLAN.md` Part 0 and `APPEAL_ISSUE_JURY_TRIAL.m
 |---|---|---|
 | Disqualification granted (or 30 days pass silently) | Within **30 days**: motion for successor judge to reconsider all rulings | `11` |
 | Disqualification denied | Petition for writ of prohibition (Second DCA) — ask Self-Help to format | — |
-| DCA discharges show-cause / dockets the merits | Write the brief. Issues, in order: **(1) jury trial** (`APPEAL_ISSUE_JURY_TRIAL.md`), **(2) default without the *Frey/Grimm* hearing + judgment's ¶1/¶4 contradiction**, **(3) wrong statutory vehicle (Ch. 83 machinery on a Ch. 723/§ 723.011 record)**, with the *Dotson* order as the comparison exhibit | — |
+| DCA discharges show-cause / dockets the merits | Write the brief. Issues, in order: **(1) jury trial** (`research/APPEAL_ISSUE_JURY_TRIAL.md`), **(2) default without the *Frey/Grimm* hearing + judgment's ¶1/¶4 contradiction**, **(3) wrong statutory vehicle (Ch. 83 machinery on a Ch. 723/§ 723.011 record)**, with the *Dotson* order as the comparison exhibit | — |
 | Potes's 30 days run out unpaid | Take the recovery suit to counsel (don't file the civil-theft count pro se) | plan Part 5 |
 | They touch/rent/sell the home after notice 13 | That's conversion with treble exposure — straight to counsel | plan Track B |
 | Writ of possession executes | They may move the home **to storage only** (§ 723.062) — demand the location in writing; your § 723.058 right to **sell the home** survives | `13` |
@@ -110,12 +110,12 @@ live in `COUNTERSUIT_AND_RECOVERY_PLAN.md` Part 0 and `APPEAL_ISSUE_JURY_TRIAL.m
 | Read when | File |
 |---|---|
 | Filing anything | `filings/READ_ME_FIRST.md` → drafts `01`–`13` |
-| Who everyone is + all related cases | `MASTER_RESEARCH_REPORT.md` |
-| The rule-based remedies | `OBJECTIVE_LEGAL_ROUTES.md` |
-| The jury issue (appeal Issue I) | `APPEAL_ISSUE_JURY_TRIAL.md` |
-| The prospectus/ownership attack | `WINNING_ANGLES_GOVERNING_DOCUMENTS.md` |
-| Corporate/park records + how to pull more | `SWEET_LIVING_BYLAWS_AND_CORPORATE_RECORDS.md` |
-| Getting money back | `COUNTERSUIT_AND_RECOVERY_PLAN.md` |
+| Who everyone is + all related cases | `research/MASTER_RESEARCH_REPORT.md` |
+| The rule-based remedies | `research/OBJECTIVE_LEGAL_ROUTES.md` |
+| The jury issue (appeal Issue I) | `research/APPEAL_ISSUE_JURY_TRIAL.md` |
+| The prospectus/ownership attack | `research/WINNING_ANGLES_GOVERNING_DOCUMENTS.md` |
+| Corporate/park records + how to pull more | `research/SWEET_LIVING_BYLAWS_AND_CORPORATE_RECORDS.md` |
+| Getting money back | `research/COUNTERSUIT_AND_RECOVERY_PLAN.md` |
 | Raw state data preserved | `evidence/DBPR_mhpark_extract_…2026-07-02.csv` |
 | Historic notes (with correction banners) | `COMPLETE_CASE_ANALYSIS.md`, `SweetLiving_v_Rodgers_Case_Timeline.md`, `Document_Analysis.md` |
 

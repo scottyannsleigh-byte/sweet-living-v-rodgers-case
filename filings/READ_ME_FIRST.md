@@ -41,7 +41,7 @@ error, not a jurisdiction problem. Documents 02 and 03 fix it.
 | 13 | `13_Home_Ownership_Notice_and_Demand.md` | Email + certified mail to Wynne's office | **send IMMEDIATELY** — protects the $18,000 home and preserves evidence |
 
 > Recovery strategy for 12–13 (and the full counterclaim menu): see
-> `COUNTERSUIT_AND_RECOVERY_PLAN.md` in the repo root. Safety rule for both letters:
+> `research/COUNTERSUIT_AND_RECOVERY_PLAN.md`. Safety rule for both letters:
 > **never mention police, prosecutors, or criminal charges in any demand for money.**
 
 ---
