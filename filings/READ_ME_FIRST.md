@@ -39,6 +39,7 @@ error, not a jurisdiction problem. Documents 02 and 03 fix it.
 | 11 | `11_Motion_for_Successor_Judge_Reconsideration_2330j.md` | Pasco County Court | **ONLY if/when disqualification is granted — then within 30 days** |
 | 12 | `12_Civil_Theft_Demand_Letter_Potes.md` | Certified mail to Sally Potes | no deadline — send this week; starts the § 772.11 thirty-day treble-damages clock |
 | 13 | `13_Home_Ownership_Notice_and_Demand.md` | Email + certified mail to Wynne's office | **send IMMEDIATELY** — protects the $18,000 home and preserves evidence |
+| 14 | `14_AUTHORITY_CONTACT_LIST.md` | (reference document — not filed anywhere) | The ONLY contact list to use — supersedes any other; no federal/public-corruption tip lines |
 
 > Recovery strategy for 12–13 (and the full counterclaim menu): see
 > `research/COUNTERSUIT_AND_RECOVERY_PLAN.md`. Safety rule for both letters:

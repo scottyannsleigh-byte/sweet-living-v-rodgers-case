@@ -55,6 +55,9 @@ live in `research/COUNTERSUIT_AND_RECOVERY_PLAN.md` Part 0 and `research/APPEAL_
 ### 🔴 STEP 2 — File by Wednesday, July 8
 - **File `filings/01` — Verified Motion to Disqualify** (e-portal myflcourtaccess.com
   or Dade City clerk). Serve Wynne by email AND the judge per Rule 2.330(d).
+  *The motion is deliberately narrow: ONE ground (the bench statement), with the
+  default and the Dotson contrast framed only as context. Do not add grounds — adverse
+  rulings alone are legally insufficient and would weaken it.*
 - Once filed, the rule takes over: the judge cannot dispute your facts (*Bundy*), and
   if he doesn't rule in 30 days it's **granted automatically** (Rule 2.330(l)).
 
@@ -70,16 +73,23 @@ live in `research/COUNTERSUIT_AND_RECOVERY_PLAN.md` Part 0 and `research/APPEAL_
   deadline for the DCA fee: **Aug 5** — don't ride it.
 - **Mail `filings/12`** (the § 772.11 demand to Sally Potes, certified, return receipt)
   — starts the 30-day clock toward **$54,000 treble damages**. NO criminal threats, ever.
-- **Call DBPR (850-488-1122):** project **PRMZ001210** — owner of record, the
-  delinquency, and copies of the prospectus + every approved rules amendment.
+- **Call DBPR (850-488-1122) AND file the DBPR complaint (`05`) the same day:**
+  project **PRMZ001210** — owner of record, the delinquency, prospectus + all rules
+  amendments. *The Ch. 723 attack is a first-line weapon, not background: it creates
+  regulatory pressure completely independent of Judge Compton, and its facts (denied
+  tenancy in writing, then sued as a tenant) are undeniable.*
+  **§ 772.11 note:** the demand letter's 30 days are HER deadline to pay, not yours to
+  sue. If it lapses unpaid, wait for counsel — never file the civil-theft count pro se.
 - ~~Pasco Property Appraiser deed lookup~~ **✅ DONE 7/2** — Surujbali personally owns
   the park (bought 6/2020, $2M, OR 10134/3753). One follow-up: open the parcel's
   **"See all 88 addresses"** list and screenshot **3929 Argyle** on it.
 
 ### 🟡 STEP 5 — Weeks of July 13–27
-- **File the regulator complaints** (all pre-drafted): `05` DBPR → `08` title fraud
+- **File the remaining regulator complaints** (all pre-drafted): `08` title fraud
   (FLHSMV + State Attorney) → then `06` JQC and `07` Bar ACAP (only after the court
-  filings are in; never mention them in court papers).
+  filings are in; never mention them in court papers). Use ONLY the authorities on
+  `filings/14_AUTHORITY_CONTACT_LIST.md` — it supersedes any other contact list; no
+  federal/public-corruption tip lines (the why is written on the list itself).
 - **Build the case list** (master report §7d): OCRS searches under BOTH names —
   "SWEET LIVING" and "SURUJBALI" — plus pull your own DIN 13. Feed it into `09` (AG).
 - **Shop the recovery suit** (`research/COUNTERSUIT_AND_RECOVERY_PLAN.md`): Bay Area Legal

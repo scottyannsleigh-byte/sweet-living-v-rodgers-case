@@ -4,6 +4,12 @@ INSTRUCTIONS — DELETE THIS BLOCK BEFORE SENDING
   is required before any civil-theft suit and is safe; FILING the civil-theft count
   later should be done with a lawyer (fee-shifting risk if the claim is found to lack
   substantial support).
+- ⚠️ THE 30-DAY CLOCK IS HER DEADLINE TO PAY — NOT YOUR DEADLINE TO SUE. If the 30
+  days pass unpaid, NOTHING expires: the fraud, rescission, and conversion claims have
+  YEARS of limitations runway, and the treble-damages count stays available whenever a
+  lawyer files it. Do NOT let this letter's clock pressure you into filing a
+  civil-theft complaint pro se — a botched one can be dismissed with prejudice and
+  carries fee-shifting against you. Preserve the notice now; sue with counsel later.
 - Send by CERTIFIED MAIL, RETURN RECEIPT REQUESTED to Sally Potes's best-known
   address [FILL IN — check the address on the title, the 5-day notice to her, or the
   Pasco Property Appraiser]. Keep the green card.
