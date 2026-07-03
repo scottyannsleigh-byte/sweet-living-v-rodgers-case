@@ -44,7 +44,13 @@ live in `research/COUNTERSUIT_AND_RECOVERY_PLAN.md` Part 0 and `research/APPEAL_
 - **Email `filings/13`** (home-ownership + preservation notice) to Wynne's office —
   costs nothing, instantly protects the $18,000 home. Mail the certified copy after.
 - Fill in the `[BRACKETS]` in filing 01 — especially the **date of the "Desmond needs
-  his money" comment** (only you know it; the 20-day clock runs from it).
+  his money" comment**. The record never dates it; the evidence points to **June 18**
+  (the only hearing where DIN 44 documents Desmond in the courtroom). If approximate,
+  write "on or about June 18, 2026" — never guess a date you're unsure of in a sworn
+  motion (details: filing 01's instruction block).
+- **Order the hearing audio** (3/24, 6/2, 6/18) from the clerk / Court Administration —
+  county hearings are recorded; the audio proves the bench comment AND feeds the
+  appeal record. Ask when you call Self-Help.
 
 ### 🔴 STEP 2 — File by Wednesday, July 8
 - **File `filings/01` — Verified Motion to Disqualify** (e-portal myflcourtaccess.com

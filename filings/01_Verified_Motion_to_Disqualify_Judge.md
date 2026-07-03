@@ -6,6 +6,22 @@ INSTRUCTIONS — DELETE THIS ENTIRE BLOCK BEFORE FILING
 - CRITICAL: confirm the date the judge said "Desmond needs his money." Fill in the
   actual hearing date in ¶3. State ONLY the true date. If it was June 2, say June 2 and
   keep the June 18 facts as the newer grounds.
+  * THE RECORD DOES NOT DATE IT — only your memory and the court's audio do. The
+    candidates are: March 24, 2026 (Zoom), June 2, 2026, or June 18, 2026. The
+    evidence points to JUNE 18: the judgment (DIN 44) documents that Desmond Surujbali
+    was PHYSICALLY IN THE COURTROOM that day (the only hearing where his presence is
+    on record), and a first-name comment from the bench fits the man being in the
+    room. Memory check: was Desmond present when you heard it? Was it over Zoom or in
+    person? Did you text your best friend about it afterward (check your phone's
+    date-stamps)?
+  * If your memory is approximate, write "on or about June 18, 2026" — lawful and
+    honest. Do NOT guess a specific date you're unsure of; this motion is sworn.
+  * PROOF EXISTS: county-court hearings are digitally recorded. Ask the clerk
+    (727-847-2411) / Sixth Circuit Court Administration (jud6.org) how to order the
+    audio of the 3/24, 6/2, and 6/18 hearings in case 2026-CC-001256. You need the
+    recordings for the appeal anyway — and the audio turns the quote from your word
+    into the court's own record. Order them THIS WEEK; don't wait for them to file
+    this motion.
 - Serve: (1) opposing counsel by email; (2) JUDGE COMPTON himself (Rule 2.330(d)) —
   call the clerk for Division 6-B's judicial assistant service email.
 - Sign in 3 places: the verification, the good-faith certificate, the cert of service.
