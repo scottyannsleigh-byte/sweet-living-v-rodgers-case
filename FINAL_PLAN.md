@@ -54,6 +54,14 @@ live in `research/COUNTERSUIT_AND_RECOVERY_PLAN.md` Part 0 and `research/APPEAL_
   4. **`04` — Indigency application** (Pasco clerk) — ask that it cover the appellate
      fee AND transcription costs.
   *Every submission generates a confirmation email — save every one.*
+- **RIGHT NOW (email works on the holiday): send `filings/16` to epreporter@jud6.org**
+  (Dade City Court Reporting, same building as the courtroom, 352‑521‑4375) with the
+  filled `court_forms/JUD6_Audio_CD_Request_Form.pdf` attached — it establishes
+  whether recordings of the 3/24, 6/2, 6/18 hearings even exist (county civil is not
+  on the circuit's standard recording list), gets cost + indigency answers, and gets
+  the transcriptionist name filing 15 needs. Full findings:
+  `research/HOW_TO_GET_THE_AUDIO.md`. If no recording exists → Rule 9.200(b)(5)
+  statement-of-proceedings path (also in that guide).
 - **Monday 8:30 AM, one call to the clerk (727‑847‑2411), four asks:** (a) the
   approved transcriptionist for digitally recorded Dade City county hearings (finishes
   filing 15's service); (b) the Division 6‑B JA email (finishes filing 01's service);
