@@ -108,10 +108,15 @@ The usual heartbreak in small-plaintiff cases is winning and collecting nothing.
 - **Desmond Surujbali is the DBPR-registered owner, personally, of ten mobile home
   parks (710 lots) in Hillsborough, Polk, and Manatee counties** — real property in his
   own name.
+- **VERIFIED July 2 (county deed record): he also personally owns the land under
+  Zephyr Mobile Home Park itself** — Pasco parcel 23‑26‑21‑0020‑00500‑0010, bought
+  June 2020 for $2,000,000 from Chang Hye Suk (OR Book 10134/3753), 2026 just value
+  **$2,092,094** (see `evidence/PascoPA_parcel_…2026-07-02.md`).
 - A Florida money judgment becomes a **lien on real property** when a certified copy is
-  recorded in a county's official records (§ 55.10). Record in **all three counties**
-  and the judgment attaches to everything he owns there — it collects itself when he
-  sells or refinances, and it accrues statutory interest.
+  recorded in a county's official records (§ 55.10). Record in **all FOUR counties —
+  Pasco, Hillsborough, Polk, Manatee** — and the judgment attaches to everything he
+  owns there, **including the very park where this happened**. It collects itself when
+  he sells or refinances, and it accrues statutory interest.
 - **Reaching him personally:** corporate officers are personally liable for torts they
   **personally commit or direct**. He signed the 7-day notice containing the "currently
   residing" statement, signed the sworn non-military statements, appeared personally,

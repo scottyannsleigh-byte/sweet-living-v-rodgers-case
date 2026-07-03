@@ -65,17 +65,34 @@ someone else owns it. That gives you:
   (including notice obligations toward homeowners) — ask DBPR whether any ownership
   transfer for PRMZ001210 was ever reported. **[VERIFY]**
 
-### [VERIFY] — two fast checks that lock this down
-1. **Pasco Property Appraiser** (search.pascopa.com): look up the parcels at **3950
-   Dixon St.** and **3929 Argyle St.** — the deed holder of record and the last sale
-   date. If the deed says Chang, the contradiction is complete and current. If it says
-   a Surujbali entity, note the date and which entity (that answers the two-name
-   question instead).
-2. **DBPR, 850‑488‑1122:** "For project **PRMZ001210**, Zephyr Mobile Home Park: who is
-   the current owner of record, has any transfer of ownership been reported, why is
-   the fee status delinquent, and may I have copies of the approved prospectus and
-   every approved amendment to the rules?" (Public records request — they must
-   respond.)
+### ✅ VERIFIED July 2, 2026 — the deed check is DONE, and it lands harder than either scenario
+
+The Pasco Property Appraiser record (parcel **23‑26‑21‑0020‑00500‑0010**, preserved in
+`evidence/PascoPA_parcel_…2026-07-02.md`) shows:
+
+- **The park land is owned by DESMOND SURUJBALI — PERSONALLY.** He bought it from
+  **Chang Hye Suk & Yun Chu Han** in **June 2020** for **$2,000,000** (Warranty Deed,
+  OR Book 10134/Page 3753). The parcel is the trailer park itself: 6.75 acres, 80
+  units, 88 addresses **including 3925 and 3928 Argyle** (Dotson's lot; confirm 3929 on
+  the full address list). 2026 just value: **$2,092,094**.
+- **So the plaintiff corporation owns nothing here.** The complaint's sworn allegation
+  that Sweet Living, Inc. "owns" the park is contradicted by the county rolls — the
+  true owner is the *individual* behind it, who chose to sue through a corporation
+  that holds no title. (He *could* have sued in his own name — he does elsewhere; see
+  master report §7. He didn't.)
+- **And DBPR was never told.** Six years after the 2020 sale, the Division's registry
+  still lists **Chang** as the park owner of record, and the park's fee status is
+  **Delinquent** — a documented, continuing failure to maintain the Chapter 723
+  registration by the man collecting the rents.
+- Four independent government systems now interlock: the county deed (Surujbali,
+  personally), Sunbiz (his corporation, same Brandon address), the DBPR registry
+  (stale Chang record + delinquency), and the court file (the corporation pleading
+  ownership it doesn't have).
+
+**Remaining phone call — DBPR, 850‑488‑1122:** "For project **PRMZ001210**: has the
+June 2020 transfer of ownership ever been reported? Why is the fee status delinquent?
+Please provide the approved prospectus and every approved rules amendment." (Public
+records request.)
 
 ### The "DELINQUENT" flag
 The park is not current on its statutory obligations to its own regulator (annual fees

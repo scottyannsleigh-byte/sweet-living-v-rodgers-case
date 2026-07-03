@@ -22,10 +22,14 @@ live in `COUNTERSUIT_AND_RECOVERY_PLAN.md` Part 0 and `APPEAL_ISSUE_JURY_TRIAL.m
    lot rental agreement without prior delivery of a DBPR-approved prospectus. They
    delivered none; they *denied* her tenancy in writing 12/31/2025, then sued her as a
    tenant for rent.
-4. **The State's own registry undercuts them:** Zephyr MHP (PRMZ001210) is registered
-   to owner of record **Chang, Hye Suk** — not the plaintiff — with fee status
-   **Delinquent**; Surujbali personally owns **ten other parks (710 lots)** — which
-   also makes any money judgment against him collectable (§ 55.10 liens).
+4. **The plaintiff doesn't own the park — the man behind it does, personally.**
+   County deed records (✅ verified 7/2): **Desmond Surujbali individually** bought the
+   park land in **June 2020 for $2,000,000** (parcel 23‑26‑21‑0020‑00500‑0010; 2026
+   value **$2.09M**); the DBPR registry was never updated (still lists prior owner
+   Chang, fee status **Delinquent**). The corporation that swore it "owns" the park
+   holds no title — and Surujbali personally owns **ten more parks (710 lots)**, so a
+   money judgment collects (§ 55.10 liens in **Pasco**, Hillsborough, Polk, Manatee —
+   including on the park itself).
 5. **The same judge, same day, same park:** *Dotson* (next door) contested and **won**;
    Brandi was defaulted. The comparison order is in this repo.
 
@@ -62,8 +66,9 @@ live in `COUNTERSUIT_AND_RECOVERY_PLAN.md` Part 0 and `APPEAL_ISSUE_JURY_TRIAL.m
   — starts the 30-day clock toward **$54,000 treble damages**. NO criminal threats, ever.
 - **Call DBPR (850-488-1122):** project **PRMZ001210** — owner of record, the
   delinquency, and copies of the prospectus + every approved rules amendment.
-- **Pasco Property Appraiser (search.pascopa.com):** deed holder for 3950 Dixon St. and
-  3929 Argyle St. (Chang? Sweet Living? which entity?).
+- ~~Pasco Property Appraiser deed lookup~~ **✅ DONE 7/2** — Surujbali personally owns
+  the park (bought 6/2020, $2M, OR 10134/3753). One follow-up: open the parcel's
+  **"See all 88 addresses"** list and screenshot **3929 Argyle** on it.
 
 ### 🟡 STEP 5 — Weeks of July 13–27
 - **File the regulator complaints** (all pre-drafted): `05` DBPR → `08` title fraud

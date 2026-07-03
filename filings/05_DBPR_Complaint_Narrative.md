@@ -56,6 +56,14 @@ today, and under what authority does Sweet Living, Inc. operate the park?
 
 &nbsp;&nbsp;&nbsp;b. The same record shows the park's fee status as **"Delinquent."**
 
+&nbsp;&nbsp;&nbsp;b-1. Pasco County Property Appraiser records (parcel
+23-26-21-0020-00500-0010) show that **Desmond Surujbali personally purchased the park
+land in June 2020 for $2,000,000** from Chang Hye Suk & Yun Chu Han (Warranty Deed, OR
+Book 10134/Page 3753). The Division's registry apparently was **never updated in the
+six years since** — it still lists the prior owner — raising the question whether the
+transfer was ever reported and whether annual fees under § 723.007 have been paid
+since the transfer.
+
 &nbsp;&nbsp;&nbsp;c. The park's prospectus was approved **December 20, 1985**. The
 January 5, 2026 notice against me quotes "Paragraph 2 of the Zephyr Mobile Home Park
 Rules and Regulations." Please confirm whether the rules quoted are part of the

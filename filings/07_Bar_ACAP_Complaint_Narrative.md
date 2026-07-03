@@ -39,6 +39,12 @@ lot for which the complaint demanded the same $1,166 from me. (Attached.)
 5. **The civil cover sheet he filed states the case involves allegations of sexual
 abuse.** The cover sheet in this eviction case marks "yes" to that question. (Attached.)
 
+5a. **The complaint's ownership allegation is contradicted by county records.** The
+complaint alleges his client, Sweet Living, Inc., owns the mobile home park. Pasco
+County Property Appraiser records (parcel 23-26-21-0020-00500-0010) show the park land
+is owned by **Desmond Surujbali individually**, who purchased it in June 2020 (OR Book
+10134/Page 3753); the corporation is not the record owner. (Attached.)
+
 6. I ask the Bar to review whether this conduct is consistent with the Rules of
 Professional Conduct, including the rules on meritorious claims and candor toward the
 tribunal.
