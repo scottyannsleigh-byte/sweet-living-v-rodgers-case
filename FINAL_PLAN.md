@@ -37,6 +37,9 @@ live in `research/COUNTERSUIT_AND_RECOVERY_PLAN.md` Part 0 and `research/APPEAL_
 
 ---
 
+> 🧭 **Click-by-click instructions for every step below — portal walkthroughs, phone
+> scripts, PDF prep: [`STEP_BY_STEP_GUIDE.md`](STEP_BY_STEP_GUIDE.md).**
+
 ## THE PLAN — DO THESE IN ORDER
 
 ### 🔴 STEP 1 — NOW (holiday weekend — the e-portal works 24/7)

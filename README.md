@@ -17,6 +17,10 @@
 case pillars, the step-by-step schedule with deadlines, the conditional triggers, and
 the document index.
 
+**[`STEP_BY_STEP_GUIDE.md`](STEP_BY_STEP_GUIDE.md)** — the click-by-click execution
+manual: portal registration, PDF prep, every phone script, every filing walkthrough,
+day by day, plus the printable pocket card.
+
 **⏰ The three deadlines that matter:**
 | Date | Action | Draft |
 |---|---|---|
