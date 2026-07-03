@@ -39,12 +39,26 @@ live in `research/COUNTERSUIT_AND_RECOVERY_PLAN.md` Part 0 and `research/APPEAL_
 
 ## THE PLAN — DO THESE IN ORDER
 
-### 🔴 STEP 1 — Tomorrow morning (Thu July 3)
-- **Call Pasco Self-Help: (727) 847-2411.** Bring/read them `filings/01` and `02`. Ask:
-  (a) format check on both; (b) the Division 6-B judicial assistant's email for serving
-  the judge; (c) the indigency application form.
-- **Email `filings/13`** (home-ownership + preservation notice) to Wynne's office —
-  costs nothing, instantly protects the $18,000 home. Mail the certified copy after.
+### 🔴 STEP 1 — NOW (holiday weekend — the e-portal works 24/7)
+- ~~Email `filings/13`~~ **✅ SENT** — the home is protected; mail the certified copy
+  too and keep the email timestamp + green card.
+- **E-PORTAL UPLOAD ORDER (myflcourtaccess.com — file in this sequence):**
+  1. **`15` — Designation to Court Reporter** (Pasco county case) — 🚨 the Rule
+     9.200(b) window lands ≈ July 6; the leave paragraph is built in if late.
+  2. **`01` — Verified Motion to Disqualify** (Pasco county case) — after your mom
+     confirms the date; serve Wynne by email same day; serve the judge via the JA
+     (Kristi Kersey, chambers 352‑521‑4424) first thing Monday.
+  3. **`02` — Show-Cause Response** (Second DCA case 2D2026‑1666) **with Appendices A
+     (DIN 44) and B (DIN 51) attached** + **`03` — Amended Notice of Appeal** (Pasco
+     county case, same session). Due July 10–13 — don't wait for the deadline.
+  4. **`04` — Indigency application** (Pasco clerk) — ask that it cover the appellate
+     fee AND transcription costs.
+  *Every submission generates a confirmation email — save every one.*
+- **Monday 8:30 AM, one call to the clerk (727‑847‑2411), four asks:** (a) the
+  approved transcriptionist for digitally recorded Dade City county hearings (finishes
+  filing 15's service); (b) the Division 6‑B JA email (finishes filing 01's service);
+  (c) the indigency form (if not e-filed already); (d) Self‑Help format check on
+  anything not yet filed.
 - Fill in the `[BRACKETS]` in filing 01 — especially the **date of the "Desmond needs
   his money" comment**. The record never dates it; the evidence points to **June 18**
   (the only hearing where DIN 44 documents Desmond in the courtroom). If approximate,

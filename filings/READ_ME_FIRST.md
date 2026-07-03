@@ -40,6 +40,7 @@ error, not a jurisdiction problem. Documents 02 and 03 fix it.
 | 12 | `12_Civil_Theft_Demand_Letter_Potes.md` | Certified mail to Sally Potes | no deadline — send this week; starts the § 772.11 thirty-day treble-damages clock |
 | 13 | `13_Home_Ownership_Notice_and_Demand.md` | Email + certified mail to Wynne's office | **send IMMEDIATELY** — protects the $18,000 home and preserves evidence |
 | 14 | `14_AUTHORITY_CONTACT_LIST.md` | (reference document — not filed anywhere) | The ONLY contact list to use — supersedes any other; no federal/public-corruption tip lines |
+| 15 | `15_Designation_to_Court_Reporter.md` | Pasco County Court e-portal + serve transcriptionist | 🚨 **MOST URGENT — Rule 9.200(b) 10-day window from 6/24 notice ≈ July 6.** File even if late (leave paragraph built in) |
 
 > Recovery strategy for 12–13 (and the full counterclaim menu): see
 > `research/COUNTERSUIT_AND_RECOVERY_PLAN.md`. Safety rule for both letters:
