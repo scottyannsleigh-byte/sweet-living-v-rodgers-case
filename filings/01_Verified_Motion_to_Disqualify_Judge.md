@@ -70,8 +70,8 @@ because they frame why the statement in paragraph 2 produced — and reasonably 
 
 &nbsp;&nbsp;&nbsp;a. On the same day the statement's subject was before the Court, the
 Court entered judgment for the plaintiff by **judicial default** although Defendant had
-answers, a jury-trial demand, and unruled motions (including a jurisdictional
-challenge) on file, declaring her pending motions "abandoned" (DIN 44 ¶ C); and
+answers, a jury-trial demand, and pending motions on file, which the judgment declared
+"abandoned" (DIN 44 ¶ C); and
 
 &nbsp;&nbsp;&nbsp;b. That same day, in the contested companion case brought by the
 same plaintiff concerning the adjacent lot, the Court **denied** the plaintiff's
